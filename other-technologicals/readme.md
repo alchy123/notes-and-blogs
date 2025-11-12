@@ -5,4 +5,4 @@
 
 ## Notes and Blogs
 
-### [Homelab Related Notes](./homelab-related-notes.md)
+* ### [Homelab Related Notes](./homelab-related-notes.md)
