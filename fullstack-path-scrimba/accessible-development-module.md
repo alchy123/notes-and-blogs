@@ -107,3 +107,9 @@
         * Position the content off screen using CSS (i.e. chatgpt sidebar)
         * Make it invisible with using opacity, and if you want it to don't take space, you can do that with CSS too, but be careful about being the item accessible.
     * About modals: While there are genuine good use cases for modals, many modals are inaccessible, confusing, confusing, negatively affect the user experience, all while being unnecessary. And when building apps, we should always ask ourself the question: does this really need to be a modal?
+
+## Additional Notes After The Module
+
+* `<meta name="viewport" content="width=device-width, initial-scale=1.0">` tag in html is important and makes a website looks good and naturally responsive for our phones and other kinda devices. ["w3schools link"](https://www.w3schools.com/css/css_rwd_viewport.asp), ["viewport meta tag - mdn"](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta/name/viewport), ["about viewport from mdn"](https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Viewport)
+    * The `width=device-width` part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+    * The `initial-scale=1.0` part sets the initial zoom level when the page is first loaded by the browser.

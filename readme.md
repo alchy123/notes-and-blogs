@@ -8,6 +8,8 @@
 
 * ### [Notes from the Fullstack Path of Scrimba](./fullstack-path-scrimba/readme.md)
 
+* ### [Notes from the Advanced JavaScript Course of Scrimba](./advanced-javascript-scrimba.md)
+
 * ### [Tech Snippets](./tech-snippets/readme.md)
 
 * ### [Other Technological Notes and Blogs](./other-technologicals/readme.md)
